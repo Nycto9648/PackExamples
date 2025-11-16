@@ -1,0 +1,2 @@
+# PackExamples
+Example resource packs
